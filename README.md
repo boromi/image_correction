@@ -9,3 +9,5 @@ Steps of the process:
 -specifying the auxiliary measurements
 -geometric correction is calculated and applied to each line of the image
 -improved image displayed
+
+https://github.com/boromi/image_correction/blob/master/imu_gps_data/image.png
