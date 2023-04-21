@@ -11,3 +11,5 @@ Steps of the process:
 - improved image displayed
 
 ![Raw image sample](https://github.com/boromi/image_correction/blob/master/imu_gps_data/image.png)
+![Post correction](https://github.com/boromi/image_correction/blob/master/imu_gps_data/manual-bezier-correction.jpg)
+![Manual Bezier corrected result](https://github.com/boromi/image_correction/blob/master/imu_gps_data/post-correction.jpg)
