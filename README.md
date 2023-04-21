@@ -10,6 +10,13 @@ Steps of the process:
 - geometric correction is calculated and applied to each line of the image
 - improved image displayed
 
+Raw image:
 ![Raw image sample](https://github.com/boromi/image_correction/blob/master/imu_gps_data/image.png)
-![Post correction](https://github.com/boromi/image_correction/blob/master/imu_gps_data/manual-bezier-correction.jpg)
-![Manual Bezier corrected result](https://github.com/boromi/image_correction/blob/master/imu_gps_data/post-correction.jpg)
+
+Correction by GPS data:
+![Post GPS correction](https://github.com/boromi/image_correction/blob/master/imu_gps_data/post-correction.jpg)
+
+Bezier-curve corrected:
+![Manual Bezier corrected result](https://github.com/boromi/image_correction/blob/master/imu_gps_data/manual-bezier-correction.jpg)
+
+
