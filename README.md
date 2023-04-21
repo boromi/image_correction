@@ -10,4 +10,4 @@ Steps of the process:
 - geometric correction is calculated and applied to each line of the image
 - improved image displayed
 
-[Raw image sample](https://github.com/boromi/image_correction/blob/master/imu_gps_data/image.png)
+![Raw image sample](https://github.com/boromi/image_correction/blob/master/imu_gps_data/image.png)
